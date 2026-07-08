@@ -1,59 +1,35 @@
-# Hi there 👋, I'm Nuthalapati Jaswanth Raj
+# Hi there, I'm Nuthalapati Jaswanth Raj 👋
 
-💡 Passionate about Data Science, Machine Learning, Artificial Intelligence, and Analytics.
+I am a passionate Data Scientist and Electronics and Communication Engineering graduate dedicated to building intelligent solutions and transforming raw data into actionable business insights. With a strong foundation in machine learning and analytics, I enjoy tackling complex, real-world business problems.
 
-🚀 Currently working on:
+### 🚀 About Me
+*   **Currently working on:** Predictive analytics, AI applications, and end-to-end machine learning deployments.
+*   **Currently learning:** Advanced Machine Learning, Deep Learning, MLOps, and Data Engineering.
+*   **Open to collaborating on:** Data Science initiatives, machine learning models, and innovative analytics projects.
 
-* Machine Learning Projects
-* Predictive Analytics
-* Data Visualization
-* AI Applications
+### 💼 Background & Education
+*   **Education:** B.E. in Electronics and Communication Engineering (Jansons Institute of Technology)
+*   **Experience:** Former IoT and Data Intern at TN Skill TANSAM
 
-🌱 Currently learning:
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Python, SQL
+*   **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, MLflow
+*   **Data Analysis & Visualization:** Pandas, NumPy, Power BI, Tableau
+*   **Core Competencies:** Predictive Modeling, Data Visualization, Business Intelligence
 
-* Advanced Machine Learning
-* Deep Learning
-* MLOps
-* Data Engineering
+### 📊 Featured Projects
+*   **Customer Churn Prediction:** End-to-end machine learning pipeline for exploratory data analysis and customer attrition modeling.
+*   **Home Loan Default Prediction:** Evaluated credit risk and applicant repayment probability using machine learning algorithms.
+*   **ITSM Incident Priority & RFC Risk Prediction:** Predictive analytics solutions designed to optimize IT service management workflows.
 
-🏆 Certifications:
+### 🏆 Certifications
+*   **Data Science Certification:** IABAC & NASSCOM
+*   **Professional Training:** Data Science and Machine Learning
 
-* Data Science Certification (IABAC & NASSCOM)
-* Professional Training in Data Science and Machine Learning
+### 📫 Let's Connect!
+*   **LinkedIn:** [Nuthalapati Jaswanth Raj](https://www.linkedin.com/in/nuthalapati-jaswanthraj)
+*   **Email:** [nuthalapati.benny@gmail.com](mailto:nuthalapati.benny@gmail.com)
 
-📊 Featured Projects:
-
-* ITSM Incident Priority Prediction
-* ITSM RFC Risk Prediction
-* Customer Churn Prediction
-* Predictive Analytics Solutions
-* End-to-End Machine Learning Projects
-
-🛠️ Skills:
-
-* Python
-* SQL
-* Machine Learning
-* Scikit-learn
-* XGBoost
-* Pandas
-* NumPy
-* TensorFlow
-* Power BI
-* MLflow
-
-🤝 Open to collaborating on:
-
-* Machine Learning Projects
-* Data Science Projects
-* AI Applications
-* Analytics Projects
-
-📫 Connect with me:
-
-* LinkedIn: [www.linkedin.com/in/nuthalapati-jaswanthraj]
-* Email: [nuthalapati.benny@gmail.com]
-
-⚡ Fun Fact:
-I enjoy transforming raw data into actionable insights and building intelligent solutions to solve real-world business problems.
+---
+⚡ *Fun Fact: I thrive on the challenge of taking messy, raw data and engineering it into clean, intelligent solutions that drive business value.*
 
